@@ -1,0 +1,6 @@
+```txt
+flask
+torch
+transformers
+sentence-transformers
+numpy
